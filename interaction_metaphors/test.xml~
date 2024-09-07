@@ -1,0 +1,8 @@
+<interaction_metaphors>
+ <game title="Legend of Zelda" genre="RPG">
+  <category name="Puzzle Solving">
+   <metaphor name="Link Dash" description="Link dashes to open a door." source_url="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmM3d214bGg3eWw4MTA0eGliaTMxNDgyaThhYjdpaGU3NDhyMTl5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iJaamieXRH53aYXg54/giphy.gif" visual="&quot;zelda\zelda_link_dash.gif&quot;" tags="bombs, secrets"/>
+  </category>
+ </game>
+ <game title="The Witcher" genre="RPG"/>
+</interaction_metaphors>
